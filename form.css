@@ -1,0 +1,110 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.box-size {
+  height: 720px;
+  background-image: url("current.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box-size img {
+  margin-top: 120px;
+  margin-left: 100px;
+  border-radius: 14px;
+}
+.hp {
+  background-color: darkslategray;
+  height: 720px;
+  width: 550px;
+  margin-left: 10x;
+  margin-top: -60px;
+}
+
+.hp h1 {
+  margin-left: 200px;
+  margin-top: -50px;
+  color: white;
+}
+.form {
+  margin-left: 140px;
+  margin-top: -200px;
+}
+.form input {
+  width: 300px;
+  height: 40px;
+  background-color: darkslategray;
+  color: white;
+}
+.input {
+  background-color: orange;
+}
+.p {
+  margin-left: 50px;
+  font-size: 20px;
+}
+.p a {
+  color: white;
+}
+.form label {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.hori {
+  width: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.hr {
+  width: 100px;
+  margin-left: 175px;
+  margin-top: -2px;
+}
+.h2 {
+  margin-top: 50px;
+  margin-left: 130px;
+  margin-top: -13px;
+  color: white;
+}
+.para {
+  width: 400px;
+  color: white;
+}
+.pk {
+  margin-left: 800px;
+  color: white;
+  width: 300px;
+  font-size: 30px;
+  margin-top: 150px;
+}
+.pk h4 {
+  margin-left: 50px;
+  font-size: 40px;
+}
+.right button {
+  margin-left: 800px;
+  width: 270px;
+  font-size: 19px;
+  font-weight: bold;
+  height: 40px;
+  margin-top: 10px;
+  background-color: blue;
+  border-radius: 14px;
+  color: white;
+}
+
+button:hover {
+  background-color: orange;
+}
+#signin {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+#signin:hover {
+  background-color: orange;
+}
