@@ -1,4 +1,7 @@
 * {
+  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'Bree Serif', serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -99,12 +102,15 @@
 button:hover {
   background-color: orange;
 }
-#signin {
-  text-align: center;
-  background-color: white;
-  color: black;
+#login {
+  text-decoration: none;
+     font-size: 15px;
+     line-height: 20px;
+     color:white ;
+     transition: 0.2s ease;
+     border-radius: 50px;
 }
 
-#signin:hover {
+#login:hover {
   background-color: orange;
 }
